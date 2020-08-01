@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # `Live Deployed Web App Link`
-#### `https://netflix-clone-5966a.web.app/`
+#### `[Netflix-Clone](https://netflix-clone-5966a.web.app/)`
 
 ### `yarn start`
 
