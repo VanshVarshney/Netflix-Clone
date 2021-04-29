@@ -2,7 +2,7 @@
 
 [Netflix-Clone](https://netflix-clone-5966a.web.app/)
 
----------------------------------------------------------------------> Steps to Run This Project Locally
+----------------------> `Steps to Run This Project Locally` <--------------------------
 
 ### `yarn start`
 
